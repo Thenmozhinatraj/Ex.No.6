@@ -15,7 +15,7 @@
 4. Google Generative AI API (optional)
 ```
 # Explanation:
-```
+```python
 In this experiment, the Persona Prompting Pattern is applied by assuming the role of a programmer. The application area selected is text summarization and analysis of user feedback for a product.
 
 Steps followed:
