@@ -182,5 +182,7 @@ This comparison demonstrates the value of **Ensemble AI**, where no single tool 
 The experiment successfully demonstrated how Python code can be developed to integrate and compare outputs from multiple AI tools: **OpenAI GPT** and **Google Gemini** for diverse content generation, and **Hugging Face Transformers** for local, objective evaluation. The integration enables **cross-verification**, the identification of **converging themes** in complex subjects, and the **automatic generation of a validated, actionable insight**. This multi-tool architecture is fundamental for building reliable and comprehensive AI-driven automation systems.
 
 
+
+
 # Result: 
 The corresponding Prompt is executed successfully.
